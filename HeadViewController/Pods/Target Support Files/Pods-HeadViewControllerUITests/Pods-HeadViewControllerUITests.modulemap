@@ -1,0 +1,6 @@
+framework module Pods_HeadViewControllerUITests {
+  umbrella header "Pods-HeadViewControllerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
